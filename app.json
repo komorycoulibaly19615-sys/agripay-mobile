@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.komory.agripay",
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
       }
